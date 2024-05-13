@@ -1,0 +1,64 @@
+/* AUSTRIA */
+.r{
+    background-color: red;
+    height: 400px;
+    width: 650px;
+    margin-top: 9%;
+    margin-left: 20%;
+}
+
+.w{
+    background-color: white;
+    width: 650px;
+    height: 150px;
+    position: relative;
+    top: 125px;
+}
+h1{
+    margin-left: 40%;
+} 
+
+ /* BENIN */
+ .gr{
+    background-color: green;
+    height: 350px;
+    width: 600px;
+    margin-top: 9%;
+    margin-left: 20%;
+ }
+ .yell{
+    background-color: yellow;
+    height: 350px;
+    width: 380px;
+ }
+ .rd{
+    background-color: red;
+    width: 380px;
+    height:170px ;
+    position: relative;
+    top: 180px;
+ }
+ .benin{
+    margin-left: 38%;
+ } 
+ /* Chad */
+ .blue{
+     background-color: dodgerblue;
+     height: 400px;
+     width:600px ;
+     margin-top: 9%;
+     margin-left: 20%;
+ }
+ .yellow{
+    background-color: yellow;
+    height: 400px;
+    width: 400px;
+ }
+ .reddd{
+    background-color: red;
+    height: 400px;
+    width: 200px;
+ }
+.chad{
+    margin-left: 38%;
+}
